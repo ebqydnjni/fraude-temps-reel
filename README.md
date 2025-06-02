@@ -1,5 +1,5 @@
 
-# 💳 Détection de Fraude en Temps Réel – Projet personnel
+# 💳 Détection de Fraude en Temps Réel 
 
 ## 🎯 Objectif
 
